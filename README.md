@@ -8,6 +8,30 @@
 
 Evolution Flow Chart goes here
 
+Early Designs and Bad Cad
+![image](https://github.com/user-attachments/assets/aa66a7b5-1cbd-40c9-8d4f-650eb1632a38)
+![image](https://github.com/user-attachments/assets/98179610-a505-4898-819b-72b1dca26d6b)
+
+
+
+![image](https://github.com/user-attachments/assets/6f807e57-a062-4df4-b15f-ce320bd49b0e)
+![image](https://github.com/user-attachments/assets/93d5a963-edac-41e8-bc51-53924ab3deeb)
+![image](https://github.com/user-attachments/assets/ab10fe01-ff7f-4a5d-b264-a3d7fe53fb5c)
+
+Jabba Gold Bot
+![image](https://github.com/user-attachments/assets/8d2cd85e-7925-44f9-bb3a-23f2fd8cc4da)
+-N20 Clamp
+-Wheel Blocked Of
+![image](https://github.com/user-attachments/assets/ab29885b-c704-4b59-8395-dc20827b89dc)
+![image](https://github.com/user-attachments/assets/d52bb41f-14eb-44f9-9212-05edde364473)
+
+Tank Bot
+![image](https://github.com/user-attachments/assets/9b16ca98-a32e-4cac-b1d1-7340c412d4ef)
+![image](https://github.com/user-attachments/assets/75c9bd84-31d4-494a-b46b-98a31c79e399)
+
+
+
+
 ## Motor Issues ##
 Logic Chart goes here.
 ![Screenshot from 2025-03-04 09-19-54](https://github.com/user-attachments/assets/8438ab42-3f1d-4edc-ba41-da7b7336b5c8)
