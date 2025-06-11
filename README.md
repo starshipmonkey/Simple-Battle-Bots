@@ -10,6 +10,7 @@ Evolution Flow Chart goes here
 
 ## Motor Issues ##
 Logic Chart goes here.
+![Screenshot from 2025-03-04 09-19-54](https://github.com/user-attachments/assets/8438ab42-3f1d-4edc-ba41-da7b7336b5c8)
 
 Tamiya DOUBLE GEARBOX (LEFT/RIGHT INDEPENDENT 4-SPEED) #70168
 ![image](https://github.com/user-attachments/assets/f18b093b-a962-4dd9-a93d-c9631d5ad1d2)
